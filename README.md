@@ -1,9 +1,9 @@
 # CDS501
 
-Code A showing statistical distribution of cardiovascular disease dataset. 
+Code A file shows statistical distribution of cardiovascular disease dataset. 
 
-Code B showing exploration and initital analysis of cardiovascular disease dataset. 
+Code B file shows exploration and initital analysis of cardiovascular disease dataset. 
 
-Code C showing exploration, analysis and clasification of cardiovascular disease dataset. 
+Code C file shows exploration, analysis and clasification of cardiovascular disease dataset. 
 
 Dataset: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
